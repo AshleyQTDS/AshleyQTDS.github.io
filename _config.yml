@@ -1,0 +1,52 @@
+# Basic
+title: MA Yuexin
+subtitle: 
+# welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
+description: My homepage
+# creator: <a href="http://onev.cat">@onevcat</a>
+
+url: "http://mayuexin.me"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: 
+
+# The blog button should not be removed.
+blog_button:
+    title: Blog
+    description: Visit blog
+
+# blog_button:
+#     title: AboutME
+#     description: Resume
+# Navigation buttons in the front page.
+nav:
+    - {title: About, description: My Resume, url: 'http://mayuexin.me/aboutme.html'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+    # comment:
+    #     disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+social:
+    # weibo: onevcat
+    github: ElineBear
+    # twitter: onevcat
+    # gplus: 107108267983477358170
+    mail: yuexinma@126.com
+
+# Google Analytics
+ga:
+    # id: your_ga_id
+    # host: your_host
