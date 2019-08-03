@@ -25,7 +25,7 @@ blog_button:
 #     description: Resume
 # Navigation buttons in the front page.
 nav:
-    - {title: About, description: My Resume, url: 'http://mayuexin.me/aboutme.html'}
+    - {title: About, description: My Resume, url: 'http://yuexinma.me/aboutme.html'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
